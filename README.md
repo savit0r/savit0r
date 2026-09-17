@@ -1,55 +1,102 @@
-## Building in public
-
 <div align="center">
 
-# Rohit Satre
+<!-- Top Banner Image -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e1b4b&height=220&section=header&text=Welcome%20to%20Rohit's%20Profile!&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
 
-> Technical founder
+# 💻 Hi, I'm Rohit Satre! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=savit0r&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F91667693%3Fu%3D38ed3318d77929eb86361b0a7d8bae274305bf7d%26v%3D4" alt="savit0r hero visual" />
+  <a href="https://x.com/rohit_satre_05" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/savit0r" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
+
+---
 
 </div>
 
-## The point of view
+## 📌 About Me
 
-> Web Developer 💻 | MERN Stack Enthusiast 🚀 | Building cool projects 🦾| one line of code at a time 👨‍💻 | Sharing my journey in tech ✨
-
-- 📍 Based in **Pune**
-- 👥 **14** followers · **24** following
-
-*Small, useful work over vague claims.*
-
-## What I’m shipping
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=savit0r&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F91667693%3Fu%3D38ed3318d77929eb86361b0a7d8bae274305bf7d%26v%3D4" alt="savit0r highlights visual" />
-</p>
-
-<p><b>Rohit Satre</b> is shipping 25 public projects with 0 stars of proof.</p>
-
-## Products and proof
-
+<div align="center">
 <table>
-<tr><td width="32%"><b><a href="https://github.com/savit0r/Huffman_hashing">Huffman_hashing</a></b></td><td>A selected project from this GitHub profile.<br/><sub>C++ · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/savit0r/forts-slider">forts-slider</a></b></td><td>A selected project from this GitHub profile.<br/><sub>HTML · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/savit0r/carhub">carhub</a></b></td><td>carhub - a car renting platform<br/><sub>TypeScript · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/savit0r/Pet-Place">Pet-Place</a></b></td><td>Pet Place - a pet care center<br/><sub>HTML · 0 stars</sub></td></tr>
+  <tr>
+    <td width="65%" valign="top">
+      <ul>
+        <li>🎓 <b>Role:</b> Technical Founder & Full-Stack Web Developer</li>
+        <li>🚀 <b>Focus:</b> MERN Stack (MongoDB, Express, React, Node.js)</li>
+        <li>📍 <b>Location:</b> Pune, Maharashtra, India</li>
+        <li>💼 <b>Currently Building:</b> Cool web products & building in public</li>
+        <li>💻 <b>Tech Interests:</b> Web Apps, System Architecture & C++</li>
+        <li>🤍 <b>Passions:</b> Coding • Building Products • Problem Solving</li>
+        <li>🌐 <b>Languages:</b> English • Hindi • Marathi</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="220px" alt="Coding GIF" />
+    </td>
+  </tr>
 </table>
+</div>
 
-## Momentum
+---
 
-<table>
-<tr><td align="center"><b>25</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>53</b><br/><sub>contributions</sub></td></tr>
-</table>
+<h2 align="center">⚡ GitHub Profile Stats ⚡</h2>
 
-## Start a conversation
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=savit0r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rohit's GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=savit0r&theme=tokyonight&hide_border=true" alt="Rohit's Streak Stats" />
+      </td>
+    </tr>
+  </table>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=savit0r&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F91667693%3Fu%3D38ed3318d77929eb86361b0a7d8bae274305bf7d%26v%3D4" alt="savit0r social visual" />
-</p>
+  <br />
 
-<a href="https://github.com/savit0r">GitHub</a> · <a href="https://x.com/rohit_satre_05">X</a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savit0r&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
-<p align="center"><sub>Rohit Satre · Founder profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+---
+
+<h2 align="center">📉 Activity & Contribution Graph 📉</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=savit0r&theme=tokyonight&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+---
+
+<h2 align="center">⚔️ Languages - Frameworks - Tools ⚔️</h2>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,cpp,c,html,css,tailwind,bootstrap,git,github,vscode,postman,docker,linux&perline=9" alt="My Tech Stack" />
+  </a>
+</div>
+
+---
+
+<h2 align="center">💻 Competitive Programming & Coding Profiles 💻</h2>
+
+<div align="center">
+  <!-- LeetCode / Coding Profile Stats Card -->
+  <a href="https://leetcode.com/savit0r">
+    <img src="https://leetcode-stats-badge.herokuapp.com/savit0r?theme=dark" alt="LeetCode Stats" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <p><b>Made with ❤️ by Rohit Satre</b></p>
+  <img src="https://komarev.com/ghpvc/?username=savit0r&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
