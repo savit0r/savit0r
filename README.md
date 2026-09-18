@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Top Banner Image -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e1b4b&height=220&section=header&text=Welcome%20to%20Rohit's%20Profile!&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
+<!-- Top Anime Banner Image -->
+<img src="https://raw.githubusercontent.com/Andrew-Velox/Andrew-Velox/main/.github/assets/banner.png" width="100%" alt="Anime Header Banner" />
 
 # 💻 Hi, I'm Rohit Satre! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
@@ -39,7 +39,7 @@
       <p><i>"Building. Learning. Breaking things. Fixing them. Repeating. 🚀"</i></p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="220px" alt="Coding GIF" />
+      <img src="https://raw.githubusercontent.com/Andrew-Velox/Andrew-Velox/main/.github/assets/yun.png" width="220px" alt="Pixel Chibi Art" />
     </td>
   </tr>
 </table>
@@ -49,31 +49,35 @@
 
 <h2 align="center">⚡ GitHub Profile Stats ⚡</h2>
 
+<!-- Right-aligned Ken Kaneki anime render alongside stats cards -->
+<img align="right" width="260" src="https://raw.githubusercontent.com/Andrew-Velox/Andrew-Velox/main/.github/assets/kenkankei_cmp.png" alt="Anime Character Render" />
+
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
-      <td align="center" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=savit0r&theme=tokyonight" alt="Rohit's Profile Details" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=savit0r&theme=tokyonight&hide_border=true" alt="Rohit's Streak Stats" />
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=savit0r&theme=tokyonight" width="400px" alt="Rohit's Profile Details" />
       </td>
     </tr>
-  </table>
-
-  <br />
-
-  <table>
     <tr>
-      <td align="center" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=savit0r&theme=tokyonight" alt="Rohit's Stats" />
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=savit0r&theme=tokyonight&hide_border=true" width="400px" alt="Rohit's Streak Stats" />
       </td>
-      <td align="center" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=savit0r&theme=tokyonight" alt="Repos Per Language" />
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=savit0r&theme=tokyonight" width="400px" alt="Rohit's Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=savit0r&theme=tokyonight" width="400px" alt="Repos Per Language" />
       </td>
     </tr>
   </table>
 </div>
+
+<br clear="both" />
 
 ---
 
@@ -107,6 +111,6 @@
 ---
 
 <div align="center">
-  <p><b>Made with ❤️ by Rohit Satre</b></p>
+  <p><b>Made with <img src="https://raw.githubusercontent.com/Andrew-Velox/Andrew-Velox/main/.github/assets/hearts_gif.gif" width="22" height="22" /> by Rohit Satre</b></p>
   <img src="https://komarev.com/ghpvc/?username=savit0r&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
