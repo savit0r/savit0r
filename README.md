@@ -21,21 +21,22 @@
 
 </div>
 
-## 📌 About Me
+## 👋 About Me
 
 <div align="center">
 <table>
   <tr>
     <td width="65%" valign="top">
+      <p>Hi, I'm Rohit — a <b>Java Full Stack Developer</b> who enjoys building scalable web applications and solving real-world problems with code.</p>
       <ul>
-        <li>🎓 <b>Role:</b> Technical Founder & Full-Stack Web Developer</li>
-        <li>🚀 <b>Focus:</b> MERN Stack (MongoDB, Express, React, Node.js)</li>
-        <li>📍 <b>Location:</b> Pune, Maharashtra, India</li>
-        <li>💼 <b>Currently Building:</b> Cool web products & building in public</li>
-        <li>💻 <b>Tech Interests:</b> Web Apps, System Architecture & C++</li>
-        <li>🤍 <b>Passions:</b> Coding • Building Products • Problem Solving</li>
-        <li>🌐 <b>Languages:</b> English • Hindi • Marathi</li>
+        <li>💻 <b>Backend:</b> Java, Spring Boot, Spring Security, REST APIs, Microservices</li>
+        <li>🎨 <b>Frontend:</b> React.js, JavaScript, HTML, CSS, Tailwind CSS</li>
+        <li>🗄️ <b>Databases:</b> MySQL, PostgreSQL, MongoDB</li>
+        <li>🔐 <b>Interested in:</b> API design, authentication, system design & distributed systems</li>
+        <li>🚀 <b>Currently:</b> Building projects, improving DSA & backend skills, exploring AI-powered apps</li>
+        <li>🤝 <b>Open to:</b> Software engineering opportunities, collaborations & freelance projects</li>
       </ul>
+      <p><i>"Building. Learning. Breaking things. Fixing them. Repeating. 🚀"</i></p>
     </td>
     <td width="35%" align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="220px" alt="Coding GIF" />
@@ -88,7 +89,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,cpp,c,html,css,tailwind,bootstrap,git,github,vscode,postman,docker,linux&perline=9" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,html,css,tailwind,mysql,postgres,mongodb,cpp,c,git,github,vscode,postman,docker,linux&perline=10" alt="My Tech Stack" />
   </a>
 </div>
 
