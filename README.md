@@ -98,8 +98,8 @@
 
 <div align="center">
   <!-- LeetCode Active Stats Card -->
-  <a href="https://leetcode.com/savit0r" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/savit0r?theme=tokyonight&font=Inter" alt="Rohit's LeetCode Stats" />
+  <a href="https://leetcode.com/u/dRw3QJZTqg" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/dRw3QJZTqg?theme=tokyonight&font=Inter" alt="Rohit's LeetCode Stats" />
   </a>
 </div>
 
