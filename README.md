@@ -52,7 +52,7 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=savit0r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rohit's GitHub Stats" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=savit0r&theme=tokyonight" alt="Rohit's Profile Details" />
       </td>
       <td align="center" width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=savit0r&theme=tokyonight&hide_border=true" alt="Rohit's Streak Stats" />
@@ -62,15 +62,24 @@
 
   <br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savit0r&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=savit0r&theme=tokyonight" alt="Rohit's Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=savit0r&theme=tokyonight" alt="Repos Per Language" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-<h2 align="center">📉 Activity & Contribution Graph 📉</h2>
+<h2 align="center">📉 Activity & Productive Time 📉</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=savit0r&theme=tokyonight&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=savit0r&theme=tokyonight" width="100%" alt="Productive Time Graph" />
 </div>
 
 ---
